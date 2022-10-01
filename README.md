@@ -17,3 +17,11 @@ I also used a naiive implementation since I found it unlikely anyone would use t
 
 ## Obligatory Warning
 If you didn't understand the ramifactions of the "How it Works" section here's an explicit warning: Please don't use this on a file larger than 4 bytes. 
+
+## Inspiration
+ * https://devblogs.microsoft.com/oldnewthing/20180515-00/?p=98755
+ * ```
+   Jimbo: what if people just stopped using .zip tho? and started using something like a vacuum bag. those are really good at getting puffy stuff into dense stuff
+   Me: oh like space bags? yeah i bet theres a lot of air in my files i could take out tbh
+   Me: Wait what if I removed all the 0s from my binary files since zero is nothing. I could take out all the space and leave all the important ones.
+   ```
