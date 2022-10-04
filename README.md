@@ -15,6 +15,12 @@ Yes, this is a joke.
 Yes, this is horrible.
 I also used a naiive implementation since I found it unlikely anyone would use this on medium-to-large files.
 
+## Usage
+```
+space-bag pack <uncompressed input file> <compressed output file> 
+space-bag unpack <compressed input file> <uncompressed output file>
+```
+
 ## Obligatory Warning
 If you didn't understand the ramifactions of the "How it Works" section here's an explicit warning: Please don't use this on a file larger than 4 bytes. 
 
